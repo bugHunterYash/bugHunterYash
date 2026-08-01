@@ -112,7 +112,7 @@
   <a href="mailto:yash.codesdev@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://yashxd.vercel.app">
+  <a href="https://yashlabs.vercel.app/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>
