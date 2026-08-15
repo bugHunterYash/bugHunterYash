@@ -34,7 +34,7 @@
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
 
-// 
+
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
@@ -101,7 +101,7 @@
   </a>
 </p>
 
-## 🔗 Connect with Me
+## 🔗 Connect with Me xD
 <p align="center">
   <a href="https://www.linkedin.com/in/yashbuilds">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
