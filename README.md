@@ -35,7 +35,7 @@
 </div>
 
 
-## 🛠️ Languages & Tools xD
+## 🛠️ Languages & Tools 
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -101,7 +101,7 @@
   </a>
 </p>
 
-## 🔗 Connect with Me
+## 🔗 Connect with Me mkae sure to follow
 <p align="center">
   <a href="https://www.linkedin.com/in/yashbuilds">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
