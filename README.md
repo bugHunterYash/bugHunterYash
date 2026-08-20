@@ -101,7 +101,7 @@
   </a>
 </p>
 
-## 🔗 Connect with Me mkae sure to follow
+## 🔗 Connect with Me 
 <p align="center">
   <a href="https://www.linkedin.com/in/yashbuilds">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
