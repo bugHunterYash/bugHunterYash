@@ -15,7 +15,7 @@
 ## 🧠 My Focus Areas
 - Full Stack Developer
 - Exploring Generative AI
-- UI/UX
+- UI Desginer
 - Graphic Designer
 - AI/ML Enthusiast
 - Python Programmer
